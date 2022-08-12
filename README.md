@@ -8,8 +8,10 @@ train and test folder are using in model, random folder is getting out resource 
 In deed it can classify the most of the video data by changing the dataset  
 
 ##### The Online Juptyer notebook https://nbviewer.org/github/pang-lee/CNN-RNN_baseball_movemnet_classfication/blob/main/cnn_RNN_new.ipynb  
+
 You can also use nbviewr http://nbviewer.org/  
-with https://nbviewer.org/github/pang-lee/CNN-RNN_baseball_movemnet_classfication to access this colab notebook online
+with https://nbviewer.org/github/pang-lee/CNN-RNN_baseball_movemnet_classfication  
+to access this colab notebook online
 
 
 #### data-set preview

@@ -7,12 +7,7 @@ In this notebook, it will auto generate the train laber by your folder name
 train and test folder are using in model, random folder is getting out resource data for testing this model  
 In deed it can classify the most of the video data by changing the dataset  
 
-###### The Online Juptyer notebook https://nbviewer.org/github/pang-lee/CNN-RNN_baseball_movemnet_classfication/blob/main/cnn_RNN_new.ipynb  
-
-You can also use nbviewr http://nbviewer.org/  
-add https://nbviewer.org/github/pang-lee/CNN-RNN_baseball_movemnet_classfication  
-to access this colab notebook online
-
+### The Online Juptyer notebook https://nbviewer.org/github/pang-lee/CNN-RNN_baseball_movemnet_classfication/blob/main/cnn_RNN_new.ipynb  
 
 #### data-set preview
 ![image](https://user-images.githubusercontent.com/13313753/184310655-d718e9b3-7973-43ca-b7d1-1b8eb4027858.png)
@@ -27,3 +22,8 @@ to access this colab notebook online
 
 
 This model still need to be modify for better proformance!
+
+
+You can also use nbviewr http://nbviewer.org/  
+add https://nbviewer.org/github/pang-lee/CNN-RNN_baseball_movemnet_classfication  
+to access this colab notebook online
